@@ -28,7 +28,7 @@ I am also an open-source high spirited. I learned a lot from the open-source com
 
 - 💬 Ask me about **HTML,CSS,JS,C Language,Python and DBMS**
 
-- 📫 How to reach me **https://linked.con/in/saritamaurya**
+- 📫 How to reach me **https://www.linkedin.com/in/sarita-maurya-9aa7b2216*
 
 - 📄 Know about my experiences [github.com/smaurya9336](github.com/smaurya9336)
 
