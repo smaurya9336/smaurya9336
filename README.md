@@ -4,11 +4,30 @@
 <hr/>
   <div style="display:flex">
     <p align="left" style="max-width:40%">
-I'm From Uttar Pradesh, India. I am a technology enthusiast. I am passionate about building fully functional web, applications.
-
-I am skilled in HTML, CSS, Javascript & ReactJS. I am good in Programming Concept ,data structure and algorithms.
-
-I am also an open-source high spirited. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+     👋 Hello World!
+      <ul>
+      <li>
+        Passionate tech enthusiast from Uttar Pradesh, India. Skilled in HTML, CSS, JavaScript, and ReactJS. Open-source advocate and avid collaborator.
+      </li><br>
+      <li>
+      Hello, I'm Sarita Maurya. I thrive on building fully functional web applications and exploring the endless possibilities of technology. Based in Uttar Pradesh, India, I'm deeply passionate about software development and open-source collaboration.
+      </li>
+      </ul>
+      <b>Skills:</b>
+      <ul>
+        <li>
+          HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>ReactJS</li>
+<li>Programming Concepts</li>
+<li>Data Structures</li>
+<li>Algorithms</li>
+        </ul>
+<li>I'm particularly interested in front-end development, user interface design, and leveraging algorithms to solve complex problems efficiently.</li>
+ <br>
+<b>Let's Connect!</b>
+<li>Feel free to reach out to me via email at sm7767119@gmail.com or connect on LinkedIn: https://www.linkedin.com/in/saritamaurya/. Let's collaborate and build something amazing together!</li>
 
 </p>
 
