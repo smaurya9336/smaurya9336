@@ -18,9 +18,17 @@
         <li>
           HTML</li>
 <li>CSS</li>
+  <li>Bootstrap</li>
 <li>JavaScript</li>
+        <li>MongoDB</li>
+        <li>Express.js</li>
+        <li>Node.js</li>
 <li>ReactJS</li>
+<li>Redux</li>
+     <li>SQL Server</li>
+        
 <li>Programming Concepts</li>
+<li>C, Java, Python, PHP</li>
 <li>Data Structures</li>
 <li>Algorithms</li>
         </ul>
