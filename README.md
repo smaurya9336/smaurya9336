@@ -48,7 +48,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smaurya9336&label=Profile%20views&color=0e75b6&style=flat" alt="smaurya9336" /> </p> -->
 <img align="right"  alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
 
-- 🔭 I’m currently working at **Shri Ramswaroop Memorial College of Engineering and Management Lucknow as a Assistant Programmer.**
+- 🔭 I’m currently working at **GOEL INSTITUTE OF TECHNOLOGY and MANAGEMENT, Lucknow as a Assistant Professor.**
 
 - 🌱 I’m currently learning **React with JavaScript.**
 
